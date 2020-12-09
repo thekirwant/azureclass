@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://githubcampus.expert/assets/images/ce-flag.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Vanilla JavaScript App</h3>
+<h3 align="center">Mario Kirwant Web Site!</h3>
 
 <div align="center">
 
